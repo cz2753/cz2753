@@ -1,5 +1,6 @@
 ### Hi folks 👋
 This is Chenfang Zhao and I am a graduate student at Columbia University, pursuing an MA in Quantitative Methods in the Social Sciences with a focus on Data Science. I am passionate about using data to solve complex problems and uncover insights that drive business decisions. My research experience includes studying the impact of modern pandemic crises on stock price crash and corporate default risk. I have also completed internships in energy conservation service and investment banking, where I gained valuable experience in data analysis, financial modeling, and due diligence. In my free time, I enjoy playing tennis, map copying, and exploring the unknown. I am proficient in Excel, PowerPoint, Python, R, QGIS, and basic HTML and UiPath. Let's connect and explore the possibilities together.
+
 [![Header](https://github.com/cz2753/cz2753/blob/main/IMG_5085.JPG "Header")](https://some-url.dev/)
 
 <!--
