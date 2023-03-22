@@ -13,11 +13,8 @@ I am passionate about using data to solve complex problems and uncover insights 
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on LinkedIn www.linkedin.com/in/chenfang-z-54989123b/.
 
-<!-- Links to your social media accounts -->
-
-[1]: www.linkedin.com/in/chenfang-z-54989123b/
 
 
 [![Header](https://github.com/cz2753/cz2753/blob/main/IMG_5085.JPG "Header")](https://some-url.dev/)
